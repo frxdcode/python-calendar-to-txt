@@ -16,7 +16,7 @@ This Python script generates a calendar for a specified year and saves it as a `
 2. Ensure you have Python 3.x installed on your machine.
 3. Run the Python script.
 
-```bash
+```
 python generate_calendar.py
 ```
 
